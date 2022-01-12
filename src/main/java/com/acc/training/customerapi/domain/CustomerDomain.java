@@ -3,7 +3,7 @@ package com.acc.training.customerapi.domain;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection="customer-training-sandeep")
+@Document(collection="customer-training-bhanu")
 public class CustomerDomain {
   
   @Id  
